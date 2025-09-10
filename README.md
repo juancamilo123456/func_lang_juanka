@@ -1,4 +1,4 @@
-FuncLang    mini lenguaje interpretado
+funcland    mini lenguaje interpretado
 
 Descripción breve:
 Programa que lee un archivo de texto con definiciones de funciones y sentencias print, valida el contenido y ejecuta las expresiones.
