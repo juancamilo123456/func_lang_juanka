@@ -3,7 +3,7 @@ Informe FuncLang (Parte 2 - Grupo B)
 Objetivo
 Implementar un mini lenguaje para definir y ejecutar funciones matematicas simples leidas desde un archivo de texto.
 
-Diseno
+Diseño
 El lexer reconoce: func, print, identificadores, numeros enteros, operadores + - * / ^, parentesis, coma, ; y =. Si aparece un simbolo raro, se informa linea y columna.
 
 El parser es descendente recursivo y respeta precedencia: ^ es asociativo a la derecha; luego * y /; luego + y -. Se valida la gramatica indicada.
